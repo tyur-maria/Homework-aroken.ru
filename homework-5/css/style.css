@@ -1,0 +1,45 @@
+.text {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300px;
+    font-style: italic;
+}
+.text1 {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 300px;
+    font-style: normal;
+    text-decoration: line-through;
+}
+.text2 {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 350px;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+}
+.text3 {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 300px;
+    font-style: normal;
+    word-spacing: 30px;
+    color: blueviolet;
+    text-decoration: wavy;
+    text-decoration-line: overline;
+}
+.text4 {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 300px;
+    font-style: normal;
+    letter-spacing: 5px;
+    text-decoration: dashed;
+    text-decoration-line: underline;
+}

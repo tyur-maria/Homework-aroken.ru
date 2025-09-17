@@ -1,0 +1,34 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    background: #e8d8f9;
+}
+
+.line {
+    background: #a39361;
+}
+
+/* ====================================================== */
+
+.block {
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    overflow: auto;
+    max-height: 1000px;
+    border: 1px solid black;
+}
+
+.line {
+    display: inline-block;
+    width: 600px;
+    padding: 30px 15px 30px 30px;
+    margin: 15px 10px 15px 10px;
+    border-radius: 40px;
+    box-shadow: inset 0px 0px 15px black;
+}
